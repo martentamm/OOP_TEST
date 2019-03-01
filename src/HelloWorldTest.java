@@ -1,3 +1,5 @@
 public class HelloWorldTest {
-    sout
+    public static void main(String[] args) {
+        System.out.println("friend was here");
+    }
 }
